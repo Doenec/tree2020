@@ -1,1 +1,3 @@
-This is an open hardware design, it has a charger and a 3.7V battery protector with WiFi connection and NeoPixel or WS2812 LEDs with the files you can order them assembled directly from JLCPCB.com using the gerbers bom and cpl files
+This is an open hardware design, it has a charger and a 3.7V battery protector with WiFi connection and NeoPixel or WS2812 LEDs so you can create your own turn on sequence changing to any color you want, 
+it's possible tou use an android app using the wifi
+with the files you can order them assembled directly from JLCPCB.com using the gerbers bom and cpl files, the most of components are available for using the smt assembly service
